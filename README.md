@@ -1,0 +1,2 @@
+# Nikto
+Test de funcționare
